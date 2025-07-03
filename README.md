@@ -109,8 +109,7 @@ src/
 
 ## 👩‍💻 Feito por
 
-Desenvolvido por \[Seu Nome Aqui] como parte de portfólio e preparação para o mercado de trabalho.
+Desenvolvido por \[Maria Rodrigues] como parte de portfólio e preparação para o mercado de trabalho.
 Inspirado pela vontade de resolver problemas reais com tecnologia.
 
 ---
->>>>>>> 6e5bf62 (feat)
